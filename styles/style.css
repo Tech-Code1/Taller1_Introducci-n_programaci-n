@@ -36,3 +36,13 @@ p, ::placeholder {
     color: rgb(77, 0, 0);
     font-style: italic;
 }
+
+.titulo-pagina-dos, .subtitulo-pagina-dos{
+    color: rgb(4, 9, 88);
+    font-weight: bold;
+}
+
+.parrafo-pagina-dos {
+    color: rgb(68, 47, 189);
+    font-style: italic;
+}

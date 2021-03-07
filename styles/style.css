@@ -25,5 +25,14 @@ p, ::placeholder {
     align-items: center;
     padding: 120px;
     justify-content: space-between;
+}
 
+.titulo-pagina-uno, .subtitulo-pagina-uno{
+    color: brown;
+    font-weight: bold;
+}
+
+.parrafo-pagina-uno {
+    color: rgb(77, 0, 0);
+    font-style: italic;
 }
